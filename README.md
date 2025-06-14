@@ -7,6 +7,8 @@ This project addresses the rising number of vehicle-related incidents and the in
 
 The system integrates **MediaPipe**, **pretrained Convolutional Neural Network (CNN) models** like **MobileNet, VGG16, VGG19, and DenseNet**, and a **Streamlit-based user interface** to offer real-time monitoring, smart detection, and insurance estimation functionalities.
 
+![Alt text](images/14.png)
+
 ## 🧭 Application Flow: Enhancing Vehicle Inspection System
 The application follows a guided and interactive flow for users, ensuring all major components (registration, damage detection, drowsiness monitoring) are handled seamlessly:
 #### 1. 🔐 Login / Registration Page
@@ -151,8 +153,6 @@ This use case diagram shows how different users interact with core features of t
 
 
 ## Conclusion
-
-![Alt text](images/14.png)
 
 This project delivers an end-to-end AI-powered Vehicle Inspection and Safety Monitoring System that seamlessly integrates real-time detection, cost estimation, and scenario generation into a single, user-friendly Streamlit application. By leveraging MediaPipe for drowsiness analysis and pretrained deep learning models like VGG16, VGG19, DenseNet121, and MobileNet for vehicle damage assessment, the system offers a robust solution for improving road safety and streamlining post-accident procedures.
 
